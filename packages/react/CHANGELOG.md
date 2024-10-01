@@ -1,5 +1,11 @@
 # @assistant-ui/react
 
+## 0.5.71
+
+### Patch Changes
+
+- f7c156b: feat: mark new runtime API methods as stable
+
 ## 0.5.70
 
 ### Patch Changes
